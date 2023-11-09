@@ -1,0 +1,29 @@
+body{
+    background-image: url(./images/th.jpg);
+    background-size: cover;
+}
+
+header{
+    background-color: ;
+}
+
+#logo{
+    margin-left: 1%;
+}
+
+.navigation{
+    float:right;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+.navigation a{
+    font-family: "Verdana, Geneva, Tahoma, sans-serif";
+    color:aqua;
+    text-decoration: none;
+    border-style: dashed;
+}
+.navigation a:hover {
+    background-color: green;
+    color:black;
+}
+    
